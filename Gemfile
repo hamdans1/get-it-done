@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap'
 gem 'figaro'
+gem 'active_model_serializers', '~> 0.10.0'
 
 group :production do
   gem 'pg'
